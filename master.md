@@ -1,6 +1,6 @@
 # Guillermo Casares
 
-Amsterdam, The Netherlands | guillo.casares@gmail.com | +316 220 77139 | LinkedIn: [add URL]
+Amsterdam, The Netherlands | guillo.casares@gmail.com | +316 220 77139 | LinkedIn: https://www.linkedin.com/in/g-casares/
 
 ## Executive summary
 
@@ -12,7 +12,7 @@ Senior operations and partnerships leader with 12 years building and turning aro
 2026 - to date | Amsterdam, The Netherlands
 
 - Built Kiseki's outbound GTM engine from scratch, running cold outreach, partnerships and competitor analysis
-- Designed partner and referral infrastructure supporting [TODO: number] active clients
+- Designed partner and referral infrastructure supporting active clients
 - Reactivated a dormant list of old leads to kick start the top of funnel again
 
 ### Head of Partnerships, Scaler
@@ -82,13 +82,12 @@ Senior operations and partnerships leader with 12 years building and turning aro
 - English
 - Spanish
 - Portuguese
-- Dutch [TODO: confirm level]
 
 ## References
 
-- VanMoof: "More than maintenance" [add URL]
-- The Routing Company: "Life at The Routing Company" [add URL]
-- Scaler: "Meet our new Head of Partnerships" [add URL]
+- VanMoof: [More than maintenance](https://www.vanmoof.com/blog/en/building-the-future-more-than-maintenance)
+- The Routing Company: [Life at The Routing Company](https://theroutingcompany.com/newsroom/guillermocasares)
+- Scaler: [Meet our new Head of Partnerships](https://scalerglobal.com/articles/meet-our-head-of-partnerships-guillermo)
 
 ## Hobbies
 
@@ -98,7 +97,8 @@ Padel and tennis; cooking and BBQ; Formula 1; football
 
 ## Maintenance notes (not part of the CV)
 
-- Source: GCasares_CV_2026 text export. Role order and bullet-to-role mapping were rebuilt by hand because the export was scrambled. Check each against the Slides version.
-- Fixes applied: removed the duplicate Uber Head of Vehicles EMEA entry; "operationally viability" to "operational viability"; "Mexico Brazil" to "Mexico and Brazil"; "+12%" to "12%+"; "Startupboot Camp" to "Startupbootcamp".
-- Open items: active client count at Kiseki; Dutch level; LinkedIn and reference URLs; Rivian dates (2021 - 2022 taken from the export).
+- Source: GCasares_CV_2026 Google Slides (read only, never edited). Role order and bullets checked against it.
+- Fixes applied: removed the duplicate Uber Head of Vehicles EMEA entry (it is also doubled in the Slides, worth deleting there); "operationally viability" to "operational viability"; "Mexico Brazil" to "Mexico and Brazil"; "+12%" to "12%+"; "Startupboot Camp" to "Startupbootcamp".
+- Confidential: never show Kiseki's client count.
+- Not shown on purpose: Dutch (very basic level). Spanish and English are professional fluency; Portuguese is mid-level.
 - Rule for tailoring: reword and reorder only. Never add a fact that is not in this file.
